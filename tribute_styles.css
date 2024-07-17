@@ -1,0 +1,57 @@
+body{
+  background: #1b1b32;
+  margin:20px;
+  border-radius: 15px;
+  font-family: Georgia, Ariel;
+}
+main {
+  background: darkgrey;
+  border-radius: 15px;
+  text-align: center;
+  padding-top:5px;
+  font-size: 22px;
+}
+.img-div {
+  background-color: #ffffff;
+  color: #000000;
+  width: 98%;  
+  max-height:900px;
+  padding:25px 5px 30px 5px;
+  border-radius: 15px;
+  margin: 10px auto;
+  font-size: 20px;
+}
+img {
+  max-width: 100%;
+  max-height:90%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-radius:15px;
+  padding-bottom:30px;
+}
+
+
+ul>li { 
+  flexwrap:wrap; text-align:left;
+}
+
+.timeline {
+  width: 500px;
+
+  display: block;
+  margin:auto;
+  padding-top: 10px;
+  padding-bottom:5px;
+  line-height: 1.5;
+  font-family: Monaco;
+  font-size: 22px;
+}
+.wiki-link{
+  display:block;
+  margin:auto;
+  padding-bottom: 15px;
+}
+.tribute-link{
+  padding-bottom: 10px;
+}
